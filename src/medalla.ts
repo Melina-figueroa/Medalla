@@ -1,4 +1,5 @@
 let posicionLlegada: number = Number(prompt("ingrese posición"));
+
 if (posicionLlegada === 1) {
   console.log("Entregar medalla de oro");
 } else {
