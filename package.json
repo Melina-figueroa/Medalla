@@ -1,7 +1,7 @@
 {
-  "name": "determinar-medalla",
+  "name": "carrera",
   "version": "1.0.0",
-  "description": "",
+  "description": "entregar medallas por posiciones",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
